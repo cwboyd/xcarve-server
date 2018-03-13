@@ -76,7 +76,7 @@ stopping service...
 ## License
 
 Some of the code included in the `lib/` folder of this repo was extracted from
-[v0.2.7 of the Easel local OS X installer][1].
+[v0.3.10 of the Easel local OS X installer][1].
 
 All other code is Copyright (c) 2015-2016 Adafruit Industries. Licensed under the MIT license.
 
